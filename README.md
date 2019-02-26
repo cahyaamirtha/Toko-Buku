@@ -6,3 +6,4 @@
 ![alt text](https://github.com/cahyaamirtha/Toko-Buku/blob/master/Toko%20Buku/edit%20form.png)
 ![alt text](https://github.com/cahyaamirtha/Toko-Buku/blob/master/Toko%20Buku/edit.png)
 ![alt text](https://github.com/cahyaamirtha/Toko-Buku/blob/master/Toko%20Buku/delete.png)
+![alt text](https://github.com/cahyaamirtha/Toko-Buku/blob/master/detail.png)
